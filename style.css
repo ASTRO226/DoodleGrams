@@ -4,7 +4,7 @@
 }
 
 .navBar {
-    position: fixed;
+    position: sticky;
     top: 0;
     width: 99.45%;
     background-image: linear-gradient(to right, #541b76, black);
